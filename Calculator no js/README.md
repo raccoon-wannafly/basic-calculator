@@ -13,3 +13,5 @@ Planned features:
 -More scaling.
 
 -More functions.
+
+![image](https://user-images.githubusercontent.com/130273473/230830259-2b59f653-7fe1-4cde-af8b-04cc129ebdb3.png)
